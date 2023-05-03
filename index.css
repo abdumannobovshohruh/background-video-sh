@@ -19,7 +19,7 @@ h1{
 }
 h1:hover{
     transition: 0.5s;
-    color: rgb(198, 173, 173);
+    color: rgb(103, 77, 77);
 }
 .btn1{
     text-align: center;
@@ -35,7 +35,7 @@ h1:hover{
     transition: 0.5s;
 }
 .btn1:hover{
-    background-color: blanchedalmond;
+    background-color: rgb(101, 89, 73);
 }
 video{
 width: 100%;
